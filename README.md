@@ -1,1 +1,1 @@
-# Serie
+Projeto para fins de estudos
